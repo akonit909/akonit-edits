@@ -3,16 +3,16 @@
 Три вертикальных эдита: **909**, **First Number**, **Sabine Kristein**.
 Формат 1080×1920, 30 кадров/с, 15 секунд, H.264 + AAC.
 
-Видео лежат в разделе **Releases** → [v1](../../releases/tag/v1).
+Видео лежат в папке [`video/`](video). Чтобы скачать файл, откройте его и нажмите «Download raw file».
 
 ## Файлы
 
 | Файл | Трек | Темп | Дроп в видео |
 |---|---|---|---|
-| `akonit-edit-909-music-ready.mp4` | METAMORPHOSIS — INTERWORLD | 175 BPM | 2,74 с |
-| `akonit-edit-first-number-music-ready.mp4` | Sahara — Hensonn | 115 BPM | 3,13 с |
-| `akonit-edit-sabine-kristein-music-ready.mp4` | PASSO BEM SOLTO — ATLXS | 130 BPM | 3,69 с |
-| `akonit-edit-909.mp4`, `akonit-edit-first-number.mp4`, `akonit-edit-sabine-kristein.mp4` | своя музыка | — | — |
+| [`akonit-edit-909-music-ready.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-909-music-ready.mp4) | METAMORPHOSIS — INTERWORLD | 175 BPM | 2,74 с |
+| [`akonit-edit-first-number-music-ready.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-first-number-music-ready.mp4) | Sahara — Hensonn | 115 BPM | 3,13 с |
+| [`akonit-edit-sabine-kristein-music-ready.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-sabine-kristein-music-ready.mp4) | PASSO BEM SOLTO — ATLXS | 130 BPM | 3,69 с |
+| [`akonit-edit-909.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-909.mp4), [`akonit-edit-first-number.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-first-number.mp4), [`akonit-edit-sabine-kristein.mp4`](https://github.com/akonit909/akonit-edits/raw/main/video/akonit-edit-sabine-kristein.mp4) | своя музыка | — | — |
 
 **Music-ready** — монтаж собран под темп трека. В звуковой дорожке только эффекты: райзеры, удары, свисты. Мелодии нет.
 Сам трек добавляется в TikTok или Reels из библиотеки платформы. Так у публикации будут права на музыку.
